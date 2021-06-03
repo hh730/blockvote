@@ -1,7 +1,7 @@
 # BlockVote 🤝🏻
 BlockVote is a blockchain based election system which lets voters elect candidate in an election.
 
-![alt text](https://drive.google.com/file/d/1aNshs6FK_YzlHSFPFsNJmEK4StHpa_CK/view?usp=sharing)
+![alt text](https://lh4.googleusercontent.com/1XyK9wkaxnF43sLQR5aHHKaFWQ4SAgVZBYy8PnDr55Ww-G-rgQBefi49VQdGIgkSI2_7jBaL35tUqmF6FZyjXXpXxOJVS-DpY5r40cm2pxKDXx4hcnmaMbx6ebwB6ac0qw=w1280)
 
 ### Technology Stack 🎨
 1. [BootStrap](https://getbootstrap.com/) 
